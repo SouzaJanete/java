@@ -1,0 +1,3 @@
+Nome: Notebook, Preço: 4999.0, Quantidade: 24
+Nome: Calça Jeans, Preço: 199.99, Quantidade: 2, Tamanho: G, Cor: Azul
+Nome: Feijão, Preço: 5.99, Quantidade: 10, Data de Validade: 2025-01-15

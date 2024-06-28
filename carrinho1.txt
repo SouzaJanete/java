@@ -1,0 +1,3 @@
+Nome: Smartphone, Preço: 2999.0, Quantidade: 12
+Nome: T-Shirt, Preço: 89.99, Quantidade: 6, Tamanho: M, Cor: Preto
+Nome: Arroz, Preço: 9.99, Quantidade: 4, Data de Validade: 2024-12-31
